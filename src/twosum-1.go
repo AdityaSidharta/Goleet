@@ -1,4 +1,4 @@
-package goleet
+package src
 
 import "fmt"
 

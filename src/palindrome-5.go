@@ -1,4 +1,4 @@
-package goleet
+package src
 
 func getPalindrome(s string, istart int, iend int) string {
     curString := string(s[istart: iend + 1])

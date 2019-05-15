@@ -1,4 +1,4 @@
-package goleet
+package src
 
 func getlength(line string) int {
     mymap := make(map[string]bool)
